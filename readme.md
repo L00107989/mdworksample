@@ -50,3 +50,20 @@ Netsted
     - Sublist
     - Sublist 2
 - List 2
+
+Now here is a table:
+
+| Right Allign | Centered | Left allign |
+|:-------- | :------: | ----------: |
+| Apple  | Green  | 5 Euro |
+| Apple  | Green  | 5 Euro |
+| Apple  | Green  | 5 Euro |
+| Apple  | Green  | 5 Euro |
+| Apple  | Green  | 5 Euro |
+| Apple  | Green  | 5 Euro |
+| James Brown Tape  | Vinyl  | 20 Euro |
+
+Block quotes:
+
+> Some important info
+>> Indented
